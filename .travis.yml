@@ -9,3 +9,4 @@ after_script:
 - mono ./testrunner/NUnit.ConsoleRunner/tools/nunit3-console.exe LAB09/bin/Debug/LAB09.exe
 
 
+
