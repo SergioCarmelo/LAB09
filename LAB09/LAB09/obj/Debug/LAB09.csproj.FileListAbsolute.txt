@@ -1,0 +1,9 @@
+C:\Users\Sergio Camelo\source\repos\LAB09\LAB09\obj\Debug\LAB09.csprojResolveAssemblyReference.cache
+C:\Users\Sergio Camelo\source\repos\LAB09\LAB09\obj\Debug\LAB09.csproj.CoreCompileInputs.cache
+C:\Users\Sergio Camelo\source\repos\LAB09\LAB09\bin\Debug\LAB09.exe.config
+C:\Users\Sergio Camelo\source\repos\LAB09\LAB09\bin\Debug\LAB09.exe
+C:\Users\Sergio Camelo\source\repos\LAB09\LAB09\bin\Debug\LAB09.pdb
+C:\Users\Sergio Camelo\source\repos\LAB09\LAB09\bin\Debug\nunit.framework.dll
+C:\Users\Sergio Camelo\source\repos\LAB09\LAB09\bin\Debug\nunit.framework.xml
+C:\Users\Sergio Camelo\source\repos\LAB09\LAB09\obj\Debug\LAB09.exe
+C:\Users\Sergio Camelo\source\repos\LAB09\LAB09\obj\Debug\LAB09.pdb
